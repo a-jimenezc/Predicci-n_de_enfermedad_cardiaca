@@ -2,17 +2,13 @@
 
 ## Table of Contents
 - [Sobre el Proyecto](#sobre-el-proyecto)
-- [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Data](#data)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Model Building](#model-building)
 - [Model Selection](#model-selection)
 - [Model Evaluation](#model-evaluation)
 - [Model Explanation](#model-explanation)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -20,21 +16,10 @@
 
 El objetivo del presente análisis es desarrollar un modelo que permita predecir si un paciente presenta un cuadro de enfermedad de arterias coronarias.
 
-## Getting Started
-
-[Insert instructions for getting started with the project here]
 
 ## Prerequisites
 
 [Insert a list of prerequisites for the project here]
-
-## Installation
-
-[Insert instructions for installing the project here]
-
-## Usage
-
-[Insert instructions for using the project here]
 
 ## Data
 
@@ -60,9 +45,6 @@ El objetivo del presente análisis es desarrollar un modelo que permita predecir
 
 [Insert information about the model explanation here]
 
-## Contributing
-
-[Insert instructions for contributing to the project here]
 
 ## License
 
