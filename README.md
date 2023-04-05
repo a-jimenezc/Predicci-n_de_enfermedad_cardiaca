@@ -42,7 +42,7 @@ La métrica usada como referencia es Accuracy. Esta nos da una medida general de
 
 A continuación se ilustra los resultados de cada uno de los modelos.
 
-<img src="referencias/images/scores.png" alt="Alt text 1" width="400"/>
+<img src="referencias/images/scores1.png" alt="Alt text 1" width="400"/>
 
 Se observa que el modelo con una capa oculta es el que mejor se desempeña en el test set bajo la métrica "accuracy". Este modelo tiene la función tanh como función de activación en la capa oculta y consta de 35 neuronas en la misma.
 
