@@ -20,9 +20,13 @@ Ver la carpeta de referencias para más información.
 
 ### Exploración Inicial de Datos
 
-El conjunto de datos se compone de variables numericas, ordinales y categoricas. La mayoria de los datos proviene de personas por encima de los 40 años y, adicionalmente, la mayoria son varones.
+El conjunto de datos se compone de variables numericas, ordinales y categoricas. La mayoria de los datos proviene de personas por encima de los 40 años y, además, en su mayoria varones.
 
 <img src="referencias/images/age.png" alt="Alt text 1" width="300"/> <img src="referencias/images/gender.png" alt="Alt text 2" width="300"/>
+
+Se puede observar que existe correlación entre ciertas variables numéricas, lo cual sugiere que el modelo se puede beneficiar del uso de regularizacion.
+
+<img src="referencias/images/corr.png" alt="Alt text 1" width="400"/>
 
 ### Model Building
 
