@@ -1,7 +1,7 @@
 # Project Title
 
 ## Table of Contents
-- [Sobre el Proyecto](#about-the-project)
+- [Sobre el Proyecto](#sobre-el-proyecto)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
