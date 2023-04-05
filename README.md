@@ -1,14 +1,14 @@
-# Predicción de Enfermedad Cardiaca
+## Predicción de Enfermedad Cardiaca
 
-## Objetivo
+### Objetivo
 
 El objetivo del presente análisis es desarrollar un modelo que permita predecir si un paciente presenta un cuadro de enfermedad de arterias coronarias.
 
-## Prerequisitos
+### Prerequisitos
 
-Instalar las librerias necesarias. Estas vienen listadas en requirements.txt. También se incluye environment.yml para los usuarios de Conda.
+Las librerias necesarias están listadas en requirements.txt. También se incluye environment.yml para los usuarios de Anaconda.
 
-## Datos
+### Datos
 
 Los datos seleccionados fueron descargados de Kaggle bajo el nombre "Heart Attack Analysis & Prediction Dataset" y fueron subidos por Rashik Rahman. A su vez, la base de datos orginial fue recolectada por: 
 1.	Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
@@ -18,27 +18,27 @@ Los datos seleccionados fueron descargados de Kaggle bajo el nombre "Heart Attac
 
 Ver la carpeta de referencias para más información.
 
-## Exploración Inicial de Datos
+### Exploración Inicial de Datos
 
 [Insert information about the exploratory data analysis here]
 
-## Model Building
+### Model Building
 
 [Insert information about the model building process here]
 
-## Model Selection
+### Model Selection
 
 [Insert information about the model selection process here]
 
-## Model Evaluation
+### Model Evaluation
 
 [Insert information about the model evaluation process here]
 
-## Model Explanation
+### Model Explanation
 
 [Insert information about the model explanation here]
 
-## Contacto
+### Contacto
 
 jimenezc.antn@gmail.com
 
