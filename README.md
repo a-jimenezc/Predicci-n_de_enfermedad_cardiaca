@@ -34,7 +34,7 @@ Se puede observar que la variable objetivo esta relativamente balanceada. Esto s
 
 ### Construcción del modelo
 
-Se probaron tres arquitecturas diferentes de algoritmo Perceptron, con una, dos y tres capas ocultas. En cada caso se utilizó Grid Search con Crossvalidation para la selección de los hiperparametros. Los modelos se construyeron utilizando la libreria Keras. Además, se usó la implementacion de la libreria Scikit-learn para Grid Search.
+Se probaron tres arquitecturas diferentes de algoritmo Perceptron, con una, dos y tres capas ocultas. En cada caso se utilizó Grid Search con Crossvalidation para la selección de los hiperparametros. Los modelos se construyeron utilizando la libreria Keras. Además, se usó la implementacion de la libreria Scikit-earn para Grid Search.
 
 La métrica usada como referencia es Accuracy. Esta nos da una medida general del desempeño del modelo cuando se tiene una variable objetivo balanceada.
 
