@@ -1,31 +1,23 @@
-# Project Title
+# Predicción de Enfermedad Cardiaca
 
-## Table of Contents
-- [Sobre el Proyecto](#sobre-el-proyecto)
-- [Prerequisites](#prerequisites)
-- [Data](#data)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Model Building](#model-building)
-- [Model Selection](#model-selection)
-- [Model Evaluation](#model-evaluation)
-- [Model Explanation](#model-explanation)
-- [License](#license)
-- [Contact](#contact)
-
-## Sobre el Proyecto
+## Objetivo
 
 El objetivo del presente análisis es desarrollar un modelo que permita predecir si un paciente presenta un cuadro de enfermedad de arterias coronarias.
 
+## Prerequisitos
 
-## Prerequisites
+Instalar las librerias necesarias. Estas vienen listadas en requirements.txt. También se incluye environment.yml para los usuarios de Conda.
 
-[Insert a list of prerequisites for the project here]
+## Datos
 
-## Data
+Los datos seleccionados fueron descargados de Kaggle bajo el nombre "Heart Attack Analysis & Prediction Dataset" y fueron subidos por Rashik Rahman. A su vez, la base de datos orginial fue recolectada por: 
+1.	Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
+2.	University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
+3.	University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
+4.	V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano, M.D., Ph.D.
+Ver la carpeta de referencias para más información.
 
-[Insert information about the data used in the project here]
-
-## Exploratory Data Analysis
+## Exploración Inicial de Datos
 
 [Insert information about the exploratory data analysis here]
 
@@ -45,12 +37,7 @@ El objetivo del presente análisis es desarrollar un modelo que permita predecir
 
 [Insert information about the model explanation here]
 
+## Contacto
 
-## License
-
-[Insert information about the project's license here]
-
-## Contact
-
-[Insert contact information here]
-
+jimenezc.antnn@gmail.com
+jimenezc.bo@gmail.com
