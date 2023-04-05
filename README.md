@@ -28,17 +28,21 @@ Se puede observar que existe correlación entre ciertas variables numéricas, lo
 
 <img src="referencias/images/corr.png" alt="Alt text 1" width="400"/>
 
-Se puede observar que se tiene una variable objetivo relativamente balanceada. Esto simplifica el desarrollo del modelo.
+Se puede observar que la variable objetivo esta relativamente balanceada. Esto simplifica el desarrollo del modelo.
 
 <img src="referencias/images/output.png" alt="Alt text 1" width="400"/>
 
-### Model Building
+### Construcción del modelo
 
-[Insert information about the model building process here]
+Se probaron tres arquitecturas diferentes de algoritmo Perceptron, con una, dos y tres capas ocultas. En cada caso se utilizó Grid Search con Crossvalidation para la selección de los hiperparametros. Los modelos se construyeron utilizando la libreria Keras. Además, se usó la implementacion de la libreria Scikit-learn para Grid Search.
 
-### Model Selection
+La métrica usada como referencia es Accuracy. Esta nos da una medida general del desempeño del modelo cuando se tiene una variable objetivo balanceada.
 
-[Insert information about the model selection process here]
+### Selección del modelo
+
+A continuación se ilustra los resultados de cada uno de los modelos.
+
+
 
 ### Model Evaluation
 
