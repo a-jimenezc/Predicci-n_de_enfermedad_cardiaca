@@ -28,6 +28,10 @@ Se puede observar que existe correlación entre ciertas variables numéricas, lo
 
 <img src="referencias/images/corr.png" alt="Alt text 1" width="400"/>
 
+Se puede observar que se tiene una variable objetivo relativamente balanceada. Esto simplifica el desarrollo del modelo.
+
+<img src="referencias/images/output.png" alt="Alt text 1" width="400"/>
+
 ### Model Building
 
 [Insert information about the model building process here]
