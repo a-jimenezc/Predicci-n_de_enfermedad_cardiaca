@@ -15,6 +15,7 @@ Los datos seleccionados fueron descargados de Kaggle bajo el nombre "Heart Attac
 2.	University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
 3.	University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
 4.	V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano, M.D., Ph.D.
+
 Ver la carpeta de referencias para más información.
 
 ## Exploración Inicial de Datos
