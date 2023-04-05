@@ -1,7 +1,7 @@
 # Project Title
 
 ## Table of Contents
-- [About the Project](#about-the-project)
+- [Sobre el Proyecto](#about-the-project)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -16,9 +16,9 @@
 - [License](#license)
 - [Contact](#contact)
 
-## About the Project
+## Sobre el Proyecto
 
-[Insert a brief description of the project here]
+El objetivo del presente análisis es desarrollar un modelo que permita predecir si un paciente presenta un cuadro de enfermedad de arterias coronarias.
 
 ## Getting Started
 
