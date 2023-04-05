@@ -22,9 +22,7 @@ Ver la carpeta de referencias para más información.
 
 El conjunto de datos se compone de variables numericas, ordinales y categoricas. La mayoria de los datos proviene de personas por encima de los 40 años y, adicionalmente, la mayoria son varones.
 
-![Alt text 1](referencias/images/age.png) ![](referencias/images/gender.png) 
-
-<img src="referencias/images/age.png" alt="Alt text 1" width="200"/> <img src="referencias/images/gender.png" alt="Alt text 2" width="200"/>
+<img src="referencias/images/age.png" alt="Alt text 1" width="400"/> <img src="referencias/images/gender.png" alt="Alt text 2" width="400"/>
 
 ### Model Building
 
