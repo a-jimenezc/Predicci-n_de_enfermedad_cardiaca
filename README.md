@@ -52,7 +52,7 @@ Se desea conocer la importancia de cada una de las variables en el momento de ha
 
 A continuación se detallan los resultados de permutación para el trainin-set y test-set.
 
-<img src="referencias/images/importances_train.png" alt="Alt text 1" width="300"/> <img src="referencias/images/importances_test.png" alt="Alt text 2" width="300"/>
+<img src="referencias/images/importances_train.png" alt="Alt text 1" width="300"/> <img src="referencias/images/imprtances_test.png" alt="Alt text 2" width="300"/>
 
 ### Contacto
 
