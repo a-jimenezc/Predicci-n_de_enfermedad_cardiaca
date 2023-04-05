@@ -20,7 +20,9 @@ Ver la carpeta de referencias para más información.
 
 ### Exploración Inicial de Datos
 
-[Insert information about the exploratory data analysis here]
+El conjunto de datos se compone de variables numericas, ordinales y categoricas. La distribución de edades es la siguiente
+
+![]()
 
 ### Model Building
 
