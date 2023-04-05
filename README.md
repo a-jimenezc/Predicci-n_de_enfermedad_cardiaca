@@ -24,7 +24,7 @@ El conjunto de datos se compone de variables numericas, ordinales y categoricas.
 
 <img src="referencias/images/age.png" alt="Alt text 1" width="300"/> <img src="referencias/images/gender.png" alt="Alt text 2" width="300"/>
 
-Se puede observar que existe correlación entre ciertas variables numéricas, lo cual sugiere que el modelo se puede beneficiar del uso de regularizacion.
+Se puede observar que existe correlación entre ciertas variables numéricas, lo cual sugiere que el modelo se puede beneficiar del uso de regularizacion. 
 
 <img src="referencias/images/corr.png" alt="Alt text 1" width="400"/>
 
