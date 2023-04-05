@@ -36,7 +36,7 @@ Se puede observar que la variable objetivo esta relativamente balanceada. Esto s
 
 Se probaron tres arquitecturas diferentes de algoritmo Perceptron, con una, dos y tres capas ocultas. En cada caso se utilizó Grid Search con Crossvalidation para la selección de los hiperparametros. Los modelos se construyeron utilizando la libreria Keras. Además, se usó la implementacion de la libreria Scikit-earn para Grid Search.
 
-La métrica usada como referencia es Accuracy. Esta nos da una medida general del desempeño del modelo cuando se tiene una variable objetivo balanceada.
+La métrica usada como referencia es "Accuracy". Esta nos da una medida general del desempeño del modelo cuando se tiene una variable objetivo balanceada.
 
 ### Selección del modelo
 
@@ -44,15 +44,15 @@ A continuación se ilustra los resultados de cada uno de los modelos.
 
 <img src="referencias/images/scores1.png" alt="Alt text 1" width="400"/>
 
-Se observa que el modelo con una capa oculta es el que mejor se desempeña en el test set bajo la métrica "accuracy". Este modelo tiene la función tanh como función de activación en la capa oculta y consta de 35 neuronas en la misma.
+Se observa que el modelo con una capa oculta es el que mejor se desempeña en el test set bajo la métrica "Accuracy". Este modelo tiene la función tanh como función de activación en la capa oculta y consta de 35 neuronas en la misma. 
 
-### Model Evaluation
+### Explicabilidad del Modelo
 
-[Insert information about the model evaluation process here]
+Se desea conocer la importancia de cada una de las variables en el momento de hacer la predicción por parte del modelo. Para ello se usa la técnica de permutación. Esta consiste en permutar los valores de las filas de cada columna, una columna a la vez, y calcular como el desempeño es afectado por esta permutación. Aquellas columnas (esto es, las variables) cuya permutación cause la mayor caída en el desepeño serán las mas importantes para el modelo.
 
-### Model Explanation
+A continuación se detallan los resultados de permutación para el trainin-set y test-set.
 
-[Insert information about the model explanation here]
+<img src="referencias/images/importances_train.png" alt="Alt text 1" width="300"/> <img src="referencias/images/importances_test.png" alt="Alt text 2" width="300"/>
 
 ### Contacto
 
