@@ -2,7 +2,7 @@
 
 ### Objetivo
 
-El objetivo del presente análisis es desarrollar un modelo que permita predecir si un paciente presenta un cuadro de enfermedad de arterias coronarias.
+El objetivo del presente análisis es desarrollar un modelo de red neuronal que permita predecir si un paciente presenta un cuadro de enfermedad de arterias coronarias.
 
 ### Prerequisitos
 
