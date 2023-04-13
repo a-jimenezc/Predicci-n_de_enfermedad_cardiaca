@@ -44,7 +44,7 @@ A continuación se ilustra los resultados de cada uno de los modelos.
 
 <img src="referencias/images/scores1.png" alt="Alt text 1" width="400"/>
 
-Se observa que el modelo con una capa oculta es el que mejor se desempeña en el test set bajo la métrica "Accuracy". Este modelo tiene la función tanh como función de activación en la capa oculta y consta de 35 neuronas en la misma. 
+Se observa que el modelo con una capa oculta es el que mejor se desempeña en el test set bajo la métrica "Accuracy". Este modelo tiene la función tanh como función de activación en la capa oculta y consta de 30 neuronas en la misma. 
 
 ### Explicabilidad del Modelo
 
