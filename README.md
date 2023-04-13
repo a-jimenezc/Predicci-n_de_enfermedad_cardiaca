@@ -54,7 +54,7 @@ A continuación se detallan los resultados de permutación para el trainin-set y
 
 <img src="referencias/images/importances_train.png" alt="Alt text 1" width="300"/> <img src="referencias/images/imprtances_test.png" alt="Alt text 2" width="300"/>
 
-En ambos casos, caa (número de vasos principales) es una varible muy importante. También se puede ver que oldpeak (depresión de ST inducida por ejercicio en relación con el reposo) es una variable muy importante cuando se usa el training set, pero no con el test set. Esto puede ser una señal de que esta varible esta causando overfitting. Finalmente, cp_0 (tipo de dolor de pecho. Valor 0: angina típica) es muy importante en el test set, pero no así cuando se usa en training set. Esto sugiere que el modelo puede no estar capturando parte de la complejidad en los datos.
+Se observa que thall_3 (talasemia, defecto reversible) es una varible muy importante cuando se usa el test set, pero qno así en el training set. Esto sugiere que el modelo puede no estar capturando parte de la complejidad en los datos. También se puede ver que caa (número de vasos principales) es una variable muy importante cuando se usa el training set, pero no con el test set. Esto puede ser una señal de que esta varible esta causando overfitting.
 
 
 ### Conclusiones
