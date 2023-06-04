@@ -63,8 +63,5 @@ El modelo que mejor se desempeña con la métrica escogida es el de arquitectura
 
 ### Contacto
 
-
-jimenezc.bo@gmail.com  
-
-antonio.jimzC@gmail.com
+[Linkedin](https://www.linkedin.com/in/antonio-jimnzc/)
 
